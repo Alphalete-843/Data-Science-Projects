@@ -1,1 +1,1 @@
-# Data Science (Titanic Statistics)
+# Titanic Statistics
